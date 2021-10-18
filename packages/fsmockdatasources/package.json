@@ -20,7 +20,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
-    "@types/faker": "^4.1.2"
+    "@types/faker": "^5.5.9"
   },
   "gitHead": "6261ffc8c139f8986f531ccca430900d75570ccc"
 }
